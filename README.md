@@ -1,4 +1,4 @@
-## Hi there 👋
+[![roadmap.sh](https://roadmap.sh/card/tall/6689741b501413692ba38c39?variant=dark&roadmaps=rust)](https://roadmap.sh)
 
 <!--
 **pumkinisawesome/pumkinisawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
