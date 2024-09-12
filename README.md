@@ -1,6 +1,3 @@
-# roadmap.sh progress
-[![roadmap.sh](https://roadmap.sh/card/tall/6689741b501413692ba38c39?variant=dark&roadmaps=rust)](https://roadmap.sh)
-
 # WakaTime metrics
 <img src="https://wakatime.com/share/@pumkinisawesome/48b91dc7-c4a3-4bc6-b5c0-0d1d19f4587c.svg" width="50%"/><img src="https://wakatime.com/share/@pumkinisawesome/b39e22cd-14d6-4249-ba31-5c1e57144784.svg" width="50%"/>
 
