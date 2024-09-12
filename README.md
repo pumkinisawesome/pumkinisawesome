@@ -2,8 +2,7 @@
 [![roadmap.sh](https://roadmap.sh/card/tall/6689741b501413692ba38c39?variant=dark&roadmaps=rust)](https://roadmap.sh)
 
 # WakaTime metrics
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@pumkinisawesome/48b91dc7-c4a3-4bc6-b5c0-0d1d19f4587c.svg"></embed></figure>
 
 <!--
 **pumkinisawesome/pumkinisawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
