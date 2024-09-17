@@ -1,5 +1,6 @@
 # WakaTime metrics
-<img src="https://wakatime.com/share/@pumkinisawesome/48b91dc7-c4a3-4bc6-b5c0-0d1d19f4587c.svg"/><!--<img src="https://wakatime.com/share/@pumkinisawesome/b39e22cd-14d6-4249-ba31-5c1e57144784.svg" width="50%"/>-->
+<img src="https://wakatime.com/share/@pumkinisawesome/48b91dc7-c4a3-4bc6-b5c0-0d1d19f4587c.svg"/>
+<img src="https://wakatime.com/share/@pumkinisawesome/c28207a6-5be0-4b39-ac8a-459bd0005851.svg"/>
 
 <!--
 **pumkinisawesome/pumkinisawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
